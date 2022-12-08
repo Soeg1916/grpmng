@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-<a href= "https://t.me/gojo_support"> <img src="https://img.shields.io/badge/GOJO神-Bot-green?style=for-the-badge&logo=telegram" alt=gojoa_satoru_bot on telegram" /> </a>
+<a href= "https://t.me/greg_support"> <img src="https://img.shields.io/badge/Greg-Bot-green?style=for-the-badge&logo=telegram" alt= on telegram" /> </a>
 <a href= "[https://t.me/greg7675]"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/"> <img src="https://img.shields.io/badge/Updates-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
