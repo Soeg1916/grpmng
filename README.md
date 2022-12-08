@@ -1,15 +1,15 @@
-![GOJO](https://telegra.ph/file/6a79f37b4cdc0ca0c9a43.jpg)
+![Greg](https://telegra.ph/file/6a79f37b4cdc0ca0c9a43.jpg)
 
 <h2 align="center">
-    ──「 GOJO神 IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 Greg IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
     ──「 SUPPORT 」──
 </h2>
 
 <p align="center">
 <a href= "https://t.me/gojo_support"> <img src="https://img.shields.io/badge/GOJO神-Bot-green?style=for-the-badge&logo=telegram" alt=gojoa_satoru_bot on telegram" /> </a>
-<a href= "[https://t.me/gojo_support]"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/gojo_bot_updates"> <img src="https://img.shields.io/badge/Updates-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href= "[https://t.me/greg7675]"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/"> <img src="https://img.shields.io/badge/Updates-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
 <h2 align="center">
@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/yunxvoid"> <img src="https://img.shields.io/badge/YUN윤-Github-magenta?style=for-the-badge&logo=github" alt="yunxvoid Github" /> </a>
+<a href="https://github.com/soeg1916"> <img src="https://img.shields.io/badge/soeg-Github-magenta?style=for-the-badge&logo=github" alt="yunxvoid Github" /> </a>
 <a href="https://github.com/SOME-1HING"> <img src="https://img.shields.io/badge/SOME-1HING-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Githun" /> </a>
 </p>
 
